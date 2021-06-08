@@ -7,14 +7,13 @@
   Short Link Generator 
 </p>
 
-<a href="https://t.me/OnlineHacking"><img src="https://img.shields.io/badge/telegram-Mr.Suman || OnlineHacking-blue.svg">
+<a href="https://t.me/TEAMINDIANHACKER"><img src="https://img.shields.io/badge/telegram-Mr.Suman || OnlineHacking-blue.svg">
 
 
 ### MAINTAINERS
-* **SUMAN MONDAL**| 
-Twitter: <a href="https://twitter.com/suman333mondal">@suman333mondal</a>
-Github: <a href="https://github.com/OnlineHacking">@OnlineHacking</a>
-Telegram: <a href="https://t.me/OnlineHacking">@OnlineHacking</a>
+* **ADRASH**| 
+Github: <a href="https://github.com/TEAMINDIANHACKER">@TEAMINDIANHACKER</a>
+Telegram: <a href="https://t.me/TEAMINDIANHACKER">@TEAMINDIANHACKER</a>
 
 ![unnamed (2)](https://i.pinimg.com/originals/85/9d/73/859d73549fecc2d9d5b44f02c6ae4044.png)
 
@@ -34,7 +33,7 @@ $ pkg update
 $ pkg install git -y
 ```
 ```
-$ git clone https://github.com/OnlineHacKing/ShortURL.git
+$ git clone https://github.com/TEAMINDIANHACKER/ShortURL
 ```
 ```
 $ cd ShortURL
@@ -48,11 +47,7 @@ $ ShortUrl
 
 ## Type `shorturl` or `ShortUrl` to run the Tool.
 
-### Subscribe our channel on youtube
-https://www.youtube.com/channel/UCwREEQuPIk7EtaRrZBVvDwg?view_as=subscriber&pbjreload=101
 
-### Chekout our webite 
-www.onlinehacking-net.cf
      
 ### Warning
 
