@@ -10,9 +10,9 @@ printf "\e[0m\e[1;93m   \___ \|  _ \ / _ \|  __| __| \e[0m\e[1;92m| |  | |  _  /
 printf "\e[0m\e[1;93m   ____) | | | | (_) | |  | |_  \e[0m\e[1;92m| |__| | | \ \| |____ \e[0m\n"
 printf "\e[0m\e[1;93m  |_____/|_| |_|\___/|_|   \__| \e[0m\e[1;92m \____/|_|  \_\______|\e[0m\n"
 printf "\e[0m\n"
-printf "\e[0m\e[1;93m        Created By Online HacKing \e[0m\e[1;91m( \e[0m\e[1;92mSuman Mondal \e[0m\e[1;91m)\e[0m\n"
+printf "\e[0m\e[1;93m        Created By Team Indian hacker \e[0m\e[1;91m( \e[0m\e[1;92mAdrash Mondal \e[0m\e[1;91m)\e[0m\n"
 printf "\e[0m\n"
-printf "\e[0m\e[1;93m    Github :\e[0m\e[1;96m OnlineHacKing \e[0m\e[1;97m| \e[0m\e[1;93mYouTube :\e[0m\e[1;96m Online Hacking\e[0m\n"
+printf "\e[0m\e[1;93m    Github :\e[0m\e[1;96m TeamIndianhacker \e[0m\e[1;97m| \e[0m\e[1;93mTelegram :\e[0m\e[1;96m @Teamindianhacker\e[0m\n"
 }
 menu() {
 printf "\e[0m\n"
@@ -25,7 +25,7 @@ if [[ $option == 1 || $option == 01 ]]; then
 shorturl
 elif [[ $option == 2 || $option == 02 ]]; then
 sleep 1
-xdg-open https://www.youtube.com/channel/UCwREEQuPIk7EtaRrZBVvDwg
+xdg-open https://t.me/TEAMINDIAHACKER
 sleep 2
 banner
 menu
