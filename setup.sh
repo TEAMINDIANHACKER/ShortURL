@@ -28,10 +28,10 @@ printf " \e[0m\e[1;91m[\e[0m\e[1;97m~\e[0m\e[1;91m]\e[0m\e[1;93m Creating Enviro
 printf "\e[0m\n"
 cp -f url /data/data/com.termux/files/usr/bin/shorturl
 cp -f url /data/data/com.termux/files/usr/bin/ShortUrl
-echo 'termux-open-url https://github.com/htr-tech/' > /data/data/com.termux/files/usr/bin/htr-tech
-echo 'termux-open-url https://github.com/htr-tech/' > /data/data/com.termux/files/usr/bin/HTR-TECH
-echo 'termux-open-url https://www.instagram.com/tahmid.rayat/' > /data/data/com.termux/files/usr/bin/instagram
-echo 'termux-open-url https://www.instagram.com/tahmid.rayat/' > /data/data/com.termux/files/usr/bin/Instagram
+echo 'termux-open-url https://github.com/TEAMINDIANHACKER/' > /data/data/com.termux/files/usr/bin/htr-tech
+echo 'termux-open-url https://github.com/TEAMINDIANHACKER/' > /data/data/com.termux/files/usr/bin/HTR-TECH
+echo 'termux-open-url https://t.me/TEAMINDIANHACKER/' > /data/data/com.termux/files/usr/bin/instagram
+echo 'termux-open-url https://t.me/TEAMINDIANHACKER/' > /data/data/com.termux/files/usr/bin/Instagram
 chmod +x /data/data/com.termux/files/usr/bin/htr-tech
 chmod +x /data/data/com.termux/files/usr/bin/HTR-TECH
 chmod +x /data/data/com.termux/files/usr/bin/instagram
