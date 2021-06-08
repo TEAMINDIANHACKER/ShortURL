@@ -25,7 +25,7 @@ if [[ $option == 1 || $option == 01 ]]; then
 shorturl
 elif [[ $option == 2 || $option == 02 ]]; then
 sleep 1
-xdg-open https://t.me/TEAMINDIAHACKER
+xdg-open https://t.me/TEAMINDIANHACKER
 sleep 2
 banner
 menu
